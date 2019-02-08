@@ -10,7 +10,7 @@ this should speed up the run time.
 - icv_generate_reference_frame - generates a reference frame from a video input
 - icv_count_objects - counts the number of objects in each video frame, using the reference frame computed from a video stream
 
-The project is using written in Python 3.6.
+The project is using Python 3.6.
 
 ## List of Dependencies:
 
